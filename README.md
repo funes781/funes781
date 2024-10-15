@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://giphy.com/explore/duck"  />
 
 ###
 
@@ -27,9 +27,5 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://giphy.com/explore/duck" height="35" alt="discord logo"  />
-</div>
 
 ###
