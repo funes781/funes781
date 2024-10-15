@@ -43,7 +43,6 @@
 
 <div align="center">
 <a href="https://github.com/funes781" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=funes781&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" style= "color=white alt=github style="margin-bottom: 5px;"  />
 </a>  
 </div>  
