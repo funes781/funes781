@@ -3,8 +3,6 @@
 
 <div align="center">⚡ Fun fact: I hate C++ users 😘</div>  
   
-
-<div align="center"> 👿I hate this: My source HAVE TO be perfect 🤫</div>  
   
 
 <br/>  
