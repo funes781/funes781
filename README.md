@@ -1,7 +1,7 @@
 # **<div align="center">👑 WELCOME TO MY PROFILE 👑</div>**  
   
 
-<div align="center">Fronted developer</div>  
+<div align="center">Frontend developer</div>  
   
   
 
