@@ -1,7 +1,7 @@
 # **<div align="center">👑 WELCOME TO MY PROFILE 👑</div>**  
   
 
-<div align="center">⚡ Fun fact: I hate C++ users 😘</div>  
+<div align="center">Fronted developer</div>  
   
   
 
