@@ -9,5 +9,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
-<center> "I have seen many students. It's a sad truth that those who shine brightest often burn fastest."
