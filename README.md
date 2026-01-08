@@ -1,13 +1,13 @@
-<h2 align="center">Hi 👋! <br>Im Jacob known as funes781</h2>
+<h2 align="center"><br>Welcome</h2>
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funes781" alt="funes781" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=funes781" alt="funes781 trophy" /></a> </p>
 
 <h1 align="center">My Projects</h1>
 
 * [Pokedex](https://poke-sphere-mu.vercel.app/)
-* [lua encrypter](https://github.com/funes781/lua-encrypter)
+* [lua obfuscator]([https://github.com/funes781/lua-encrypter](https://github.com/funes781/lua-obfuscator))
 
 ###
 
