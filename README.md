@@ -7,7 +7,7 @@
 <h1 align="center">My Projects</h1>
 
 * [Pokedex](https://poke-sphere-mu.vercel.app/)
-* [lua obfuscator]([https://github.com/funes781/lua-encrypter](https://github.com/funes781/lua-obfuscator))
+* [BindMacro](https://github.com/funes781/BindMacro)
 
 ###
 
