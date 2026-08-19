@@ -1,23 +1,38 @@
-<h2 align="center"><br>Welcome</h2>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Witaj+%2C+jestem+funes781;Programista+%7C+Devops+Enthusiast;Zawsze+ucz%C4%85cy+si%C4%99+czego%C5%9B+nowego" alt="Typing SVG" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=funes781" alt="funes781 trophy" /></a> </p>
+</div>
 
-<h1 align="center">My Projects</h1>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=funes781&theme=onedark&no-frame=true&row=1&column=7" alt="funes781 trophy" /></a>
+</p>
 
-* [Pokedex](https://poke-sphere-mu.vercel.app/)
-* [BindMacro](https://github.com/funes781/BindMacro)
+<h1 align="center">🚀 Projekty</h1>
 
-###
+<div align="center">
 
-<h1 align="center">Tech stack</h1>
+| Projekt | Opis | Link |
+|---|---|---|
+| **Pokedex** | Aplikacja z pokemonami | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
+| **BindMacro** | Narzędzie do makr | [🔗 Repo](https://github.com/funes781/BindMacro) |
 
-###
+</div>
+
+<h1 align="center">📊 Statystyki GitHub</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=onedark&hide_border=true&count_private=true" height="165" alt="funes781 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=onedark&hide_border=true" height="165" alt="funes781 top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funes781&theme=onedark&hide_border=true" alt="funes781 streak" />
+</div>
+
+<h1 align="center">🛠️ Tech stack</h1>
 
 <h5 align="center">Operating Systems (OS)</h5>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
@@ -31,11 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="30" alt="opensuse logo"  />
 </div>
 
-###
-
 <h5 align="center">Version Control / Collaboration</h5>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -51,11 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
-
 <h5 align="center">Virtualization / Cloud Tools</h5>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -73,11 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" height="40" alt="k3s logo"  />
 </div>
 
-###
-
 <h5 align="center">DevOps</h5>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
@@ -93,11 +96,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
 </div>
 
-###
-
 <h5 align="center">Programming Languages</h5>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -123,7 +122,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -139,7 +138,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -151,19 +150,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-<br>
+<h1 align="center">📫 Kontakt</h1>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=funes781&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=funes781&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
 </div>
 
-###
-
+<br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funes781&" alt="funes781" />
+  <img src="https://komarev.com/ghpvc/?username=funes781&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="funes781 profile views" />
 </div>
-
-
