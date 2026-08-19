@@ -22,12 +22,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=dark" height="165" alt="funes781 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=dark" height="165" alt="funes781 top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=funes781&theme=dark" alt="funes781 streak" />
+  <img src="https://raw.githubusercontent.com/funes781/funes781/main/metrics.svg" alt="funes781 metrics" />
 </div>
 
 <h1 align="center">🛠️ Tech Stack</h1>
