@@ -14,20 +14,20 @@
 
 | Projekt | Opis | Link |
 |---|---|---|
-| **Pokedex** | Aplikacja z pokemonami | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
-| **BindMacro** | Narzędzie do makr | [🔗 Repo](https://github.com/funes781/BindMacro) |
+| **Pokedex** | Strona z pokemonami | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
+| **BindMacro** | Proste macro napisane w Pythonie | [🔗 Repo](https://github.com/funes781/BindMacro) |
 
 </div>
 
 <h1 align="center">📊 Statystyki GitHub</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=onedark&hide_border=true&count_private=true" height="165" alt="funes781 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=onedark&hide_border=true" height="165" alt="funes781 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=onedark&hide_border=true&cache_seconds=1800" height="165" alt="funes781 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800" height="165" alt="funes781 top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funes781&theme=onedark&hide_border=true" alt="funes781 streak" />
+  <img src="https://streak-stats.demolab.com/?user=funes781&theme=onedark&hide_border=true" alt="funes781 streak" />
 </div>
 
 <h1 align="center">🛠️ Tech stack</h1>
