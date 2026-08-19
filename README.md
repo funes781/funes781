@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Witaj+%2C+jestem+funes781;Programista+%7C+Devops+Enthusiast;Zawsze+ucz%C4%85cy+si%C4%99+czego%C5%9B+nowego" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+There" alt="Typing SVG" />
 
 </div>
 
@@ -8,29 +8,29 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=funes781&theme=onedark&no-frame=true&row=1&column=7" alt="funes781 trophy" /></a>
 </p>
 
-<h1 align="center">🚀 Projekty</h1>
+<h1 align="center">🚀 Projects</h1>
 
 <div align="center">
 
-| Projekt | Opis | Link |
+| Project | Description | Link |
 |---|---|---|
-| **Pokedex** | Strona z pokemonami | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
-| **BindMacro** | Proste macro napisane w Pythonie | [🔗 Repo](https://github.com/funes781/BindMacro) |
+| **Pokedex** | A Pokemon website | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
+| **BindMacro** | A simple macro tool written in Python | [🔗 Repo](https://github.com/funes781/BindMacro) |
 
 </div>
 
-<h1 align="center">📊 Statystyki GitHub</h1>
+<h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=onedark&hide_border=true&cache_seconds=1800" height="165" alt="funes781 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=onedark&hide_border=true&cache_seconds=1800" height="165" alt="funes781 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=funes781&show_icons=true&theme=dark" height="165" alt="funes781 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funes781&layout=compact&theme=dark" height="165" alt="funes781 top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=funes781&theme=onedark&hide_border=true" alt="funes781 streak" />
+  <img src="https://streak-stats.demolab.com/?user=funes781&theme=dark" alt="funes781 streak" />
 </div>
 
-<h1 align="center">🛠️ Tech stack</h1>
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <h5 align="center">Operating Systems (OS)</h5>
 
@@ -150,11 +150,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-<h1 align="center">📫 Kontakt</h1>
+<h1 align="center">📫 Contact</h1>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=funes781&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=funes781&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+</div>
+
+<br>
+
+<h1 align="center">🌐 Languages</h1>
+
+<div align="center">
+  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" height="30" alt="Polish flag" title="Polski" />
+  <img width="12" />
+  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="30" alt="US flag" title="English" />
+  <img width="12" />
+  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" height="30" alt="German flag" title="Deutsch" />
 </div>
 
 <br>
