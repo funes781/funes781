@@ -16,6 +16,7 @@
 |---|---|---|
 | **Pokedex** | A Pokemon website | [🔗 Demo](https://poke-sphere-mu.vercel.app/) |
 | **BindMacro** | A simple macro tool written in Python | [🔗 Repo](https://github.com/funes781/BindMacro) |
+|**Invite** | A Minecraft simple whitelist plugin | [🔗 Repo](https://github.com/funes781/invite-plugin) |
 
 </div>
 
